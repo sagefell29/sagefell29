@@ -7,9 +7,9 @@ Beyond technical prowess, my enthusiastic and curious nature fuels my continuous
 
 Besides my coding skills, I **possess excellent communication and collaboration abilities**, allowing me to work effectively in team environments and contribute to project success. Together, **let's harness technology's potential to make a meaningful and positive impact in the world!** 🚀
 
-- 🔭 I’m currently working on **MERN Stack.**
+- 🔭 I’m currently working on the **MERN Stack.**
 
-- 🌱 I’m currently learning **advanced concepts in the MERN Stack.**
+- 🌱 I’m currently learning **advanced concepts in the MERN Stack**, among other things.
 
 - 👯 I’m looking to collaborate on **anything with great disruption capabilities.**
 
@@ -17,13 +17,12 @@ Besides my coding skills, I **possess excellent communication and collaboration 
 
 - 👨‍💻 All of my projects are available at [rishikaushal.in](rishikaushal.in)
 
-- 💬 Ask me about **react, scikit-learn, node, express and many more things**
+- 💬 Ask me about **react, scikit-learn, node, express and many more things.**
 
 - 📫 How to reach me **rishi29work@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RiTya05drFYD50tXj4pNdvYby8oT-BU1/view?usp=sharing](https://drive.google.com/file/d/1RiTya05drFYD50tXj4pNdvYby8oT-BU1/view?usp=sharing)
 
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/rishi-kaushal-133246212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi-kaushal-133246212" height="30" width="40" /></a><a href="https://fb.com/rishi.kaushal.969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishi.kaushal.969" height="30" width="40" /></a><a href="https://www.hackerrank.com/rishi29kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishi29kaushal" height="30" width="40" /></a><a href="https://www.leetcode.com/rishi29kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishi29kaushal" height="30" width="40" /></a></p>
