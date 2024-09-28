@@ -1,28 +1,31 @@
 <h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-I'm Rishi Kaushal, a **passionate and results-driven developer with a proven ability to create innovative solutions to real-world problems**. With high proficiency in C/C++, Python, MERN stack, and web technologies, **I thrive at the intersection of computer science and biology**, exploring **Bioinformatics, Machine Learning, AI, Blockchain, and Game Technology** to broaden my knowledge and expertise.
+I'm **Rishi Kaushal**, a passionate and results-driven software engineer, currently working at **AstraZeneca**. I have a diverse skill set that spans from data engineering to full-stack development, with a strong foundation in both **modern and legacy technologies**.
 
-Beyond technical prowess, my enthusiastic and curious nature fuels my continuous learning journey, allowing me to **adapt quickly to new challenges.** I **actively engage in multiple domains and find joy in participating in Hackathons**, where my collaborative spirit and creative thinking have led to successful outcomes and recognition.
+## Professional Journey
 
-Besides my coding skills, I **possess excellent communication and collaboration abilities**, allowing me to work effectively in team environments and contribute to project success. Together, **let's harness technology's potential to make a meaningful and positive impact in the world!** 🚀
+Over the years, I've honed my skills across multiple domains:
 
-- 🔭 I’m currently working on the **MERN Stack.**
+- **Previously**, I specialized in **C/C++, Python**, and the **MERN stack**, contributing to innovative solutions in **Bioinformatics, Machine Learning, AI, Blockchain**, and **Game Technology**.
+- **Currently**, I'm thriving as a **Data Engineer**, leveraging tools like **Apache Airflow, PySpark, and AWS** to build scalable and efficient data pipelines.
+- I'm also a **Full-Stack Developer**, working on **.NET-based web app development**, building end-to-end solutions for enterprise applications.
 
-- 🌱 I’m currently learning **advanced concepts in the MERN Stack**, among other things.
+Beyond my technical expertise, I remain **enthusiastic and curious**, constantly exploring new technologies and methodologies. My collaborative spirit has led me to **hackathons and open-source projects**, where I’ve earned recognition for my problem-solving and teamwork abilities.
 
-- 👯 I’m looking to collaborate on **anything with great disruption capabilities.**
+## What I’m Focused On
 
-- 🤝 I’m looking for help with **finding the right opportunities.**
+- 🔭 I’m currently working on **.NET web applications and data engineering pipelines**.
+- 🌱 I’m learning and deepening my expertise in **Apache Airflow, PySpark, AWS**, and **.NET technologies**.
+- 👯 I’m open to collaboration on **disruptive tech solutions in data engineering and web development**.
+- 🤝 I’m looking for opportunities to **solve challenging problems in data architecture and software design**.
+- 💬 Ask me about **Data Engineering, Airflow, AWS, .NET, and Full-Stack Development**.
+- 👨‍💻 You can find all my projects at [rishikaushal.in](https://rishikaushal.in).
+- 📫 How to reach me: **rishi29work@gmail.com**.
 
-- 👨‍💻 All of my projects are available at [rishikaushal.in](rishikaushal.in)
-
-- 💬 Ask me about **react, scikit-learn, node, express and many more things.**
-
-- 📫 How to reach me **rishi29work@gmail.com**
+Together, let’s harness technology's potential to make a meaningful impact! 🚀
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RiTya05drFYD50tXj4pNdvYby8oT-BU1/view?usp=sharing](https://drive.google.com/file/d/1RiTya05drFYD50tXj4pNdvYby8oT-BU1/view?usp=sharing)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"><a href="https://linkedin.com/in/rishi-kaushal-133246212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishi-kaushal-133246212" height="30" width="40" /></a><a href="https://fb.com/rishi.kaushal.969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishi.kaushal.969" height="30" width="40" /></a><a href="https://www.hackerrank.com/rishi29kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rishi29kaushal" height="30" width="40" /></a><a href="https://www.leetcode.com/rishi29kaushal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishi29kaushal" height="30" width="40" /></a></p>
@@ -50,6 +53,4 @@ Besides my coding skills, I **possess excellent communication and collaboration 
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagefell29&show_icons=true&locale=en&layout=compact" alt="sagefell29" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagefell29&show_icons=true&locale=en" alt="sagefell29" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sagefell29&show_icons=true&locale=en&layout=compact" alt="sagefell29" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagefell29&show_icons=true&locale=en" alt="sagefell29" /></p>
